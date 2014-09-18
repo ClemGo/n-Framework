@@ -1,11 +1,17 @@
+<!--
+* Demo Page
+* Clemens Goering - Notification (http://www.cgoering.de)
+* Copyright 2013-2014 Clemens Goering / CGOERING
+* by Clemens Goering
+-->
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="n-Framework Demo">
+    <meta name="author" content="Clemens Goering">
     <link rel="icon" href="../../favicon.ico">
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 	 <script src="//code.jquery.com/jquery-1.10.2.js"></script>
@@ -93,13 +99,8 @@
 						 <input type="input" id="inputField" 
 						 onkeydown="if (event.keyCode == 13) createInputNote('inputField','right',this.value,'red')"
 						 style="width:300px; margin:0px 40%;" value="test"/>
-					 </p>
-					 
-				  
-				 <div id="output" class="notification-output"></div>
-				 
+					 </p>	  
+				 <div id="output" class="notification-output"></div> 
 				 <div id="multi-output" class="notification-multi-output"></div>
-				     	
-
   </body>
 </html>

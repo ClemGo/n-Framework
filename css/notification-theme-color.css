@@ -9,8 +9,8 @@
 
 .theme-red{
 	color:#333;
-	background-color: rgba(255, 64, 64, 0.74);
-	border-color: rgba(50, 48, 48, 0.34);
+	background-color: rgba(255, 99, 99, 0.88);
+	border-color: rgba(20, 14, 14, 0.34);
 	border-width:1px;
 	border-radius:4px 4px 4px 4px;
 }
@@ -18,14 +18,14 @@
 .theme-green{
 	color:#333;
 	background-color: rgba(107, 255, 104, 0.36);
-	border-color: rgba(95, 252, 102, 0.28);
+	border-color: rgba(95, 252, 102, 0.81);
 	border-width: 1px;
 	border-radius: 4px;
 }
 
 .theme-yellow{
 	color:#333;
-	background-color: rgba(255, 250, 150, 0.77);
+	background-color: rgba(255, 250, 150, 0.88);
 	border-color: rgba(224, 239, 151, 1);
 	border-width: 1px;
 	border-radius: 4px;
