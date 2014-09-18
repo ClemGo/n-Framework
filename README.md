@@ -44,7 +44,7 @@ Every Element can be used for different Reasons, and because of this, different 
 Also a group of icons is available for individuel points.
 
 <h2>How to use</h2>
-Have a look at the Wiki-Section for a short introducing.
+Have a look at the Wiki-Section for a short introducing.<br>
 @<a href="https://github.com/ClemGo/n-Framework/wiki/Functions">GitHub Wiki Page</a><br>
 @<a href="http://cgoering.de/notification/notification-demo.php">CGOERING - Demo - Page</a>
 
