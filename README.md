@@ -29,6 +29,11 @@ Just include the following files to your Page:
 	<link href="css/notification-theme-color.css" rel="stylesheet">
 	
 	Now you will be able to use all Elements.
+	!Important
+	Add this div Elements to your Page
+		<div id="output" class="notification-output"></div>
+		<div id="multi-output" class="notification-multi-output"></div>
+	They are used to publish the Notifications
 
 <h1>Functions</h1>
 
