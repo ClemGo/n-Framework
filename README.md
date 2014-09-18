@@ -42,3 +42,6 @@ The following Functions have been uploaded to start this project.
 
 Every Element can be used for different Reasons, and because of this, different colors have been implemented.
 Also a group of icons is available for individuel points.
+
+<h2>How to use</h2>
+Have a look at the Wiki-Section for a short introducing.
