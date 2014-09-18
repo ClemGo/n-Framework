@@ -29,3 +29,16 @@ Just include the following files to your Page:
 	<link href="css/notification-theme-color.css" rel="stylesheet">
 	
 	Now you will be able to use all Elements.
+
+<h1>Functions</h1>
+
+The following Functions have been uploaded to start this project.
+
+ - Single Message Info
+ - Multi Message Info Area
+ - "More" Message
+ - Element Message
+ - Main Message
+
+Every Element can be used for different Reasons, and because of this, different colors have been implemented.
+Also a group of icons is available for individuel points.
