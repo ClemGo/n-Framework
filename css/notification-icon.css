@@ -1,0 +1,78 @@
+/*!
+ * Clemens Goering - Notification (http://www.cgoering.de)
+ * Copyright 2013-2014 Clemens Goering / CGOERING
+ * Notification and information Framework
+ */
+/*
+* You can add a circle around your icon
+* by calling this class
+*/
+
+.icon-circle{
+	border-radius: 7px;
+	border-color: rgba(170, 170, 170, 0.21);
+	border-width: 1px;
+	border-style: solid;
+}
+.icon-warning,
+.icon-drop-down,
+.icon-drop-up,
+.icon-email,
+.icon-calendar,
+.icon-msg,
+.icon-settings,
+.icon-close,
+.icon-cancel,
+.icon-success,
+.icon-info{
+	width:20px;
+	height:20px;
+	margin:10px;
+}
+
+
+
+.icon-warning{
+	background: url('../images/notification-icons.gif') 238px -5px;
+}
+
+.icon-drop-down{
+	background: url('../images/notification-icons.gif') -6px 322px;
+}
+
+.icon-drop-up{
+	background: url('../images/notification-icons.gif') -101px 322px;
+}
+
+.icon-email{
+	background: url('../images/notification-icons.gif') -101px 45px;
+}
+
+.icon-calendar{
+	background: url('../images/notification-icons.gif') -6px 482px;
+}
+
+.icon-msg{
+	background: url('../images/notification-icons.gif') -6px 200px;
+}
+
+.icon-settings{
+	background: url('../images/notification-icons.gif') -6px 224px;
+}
+
+.icon-close,
+.icon-cancel{
+	background: url('../images/notification-icons.gif') -101px 283px;
+}
+
+.icon-success{
+	background: url('../images/notification-icons.gif') -101px 383px;
+
+}
+
+.icon-info{
+	background: url('../images/notification-icons.gif') -129px 383px;
+
+}
+
+

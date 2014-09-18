@@ -1,0 +1,89 @@
+/*!
+ * Clemens Goering - Notification (http://www.cgoering.de)
+ * Copyright 2013-2014 Clemens Goering / CGOERING
+ * Notification and information Framework
+
+* Notification Error Themes
+*/
+
+
+.theme-red{
+	color:#333;
+	background-color: rgba(255, 64, 64, 0.74);
+	border-color: rgba(50, 48, 48, 0.34);
+	border-width:1px;
+	border-radius:4px 4px 4px 4px;
+}
+
+.theme-green{
+	color:#333;
+	background-color: rgba(107, 255, 104, 0.36);
+	border-color: rgba(95, 252, 102, 0.28);
+	border-width: 1px;
+	border-radius: 4px;
+}
+
+.theme-yellow{
+	color:#333;
+	background-color: rgba(255, 250, 150, 0.77);
+	border-color: rgba(224, 239, 151, 1);
+	border-width: 1px;
+	border-radius: 4px;
+}
+
+.theme-white{
+	color:#333;
+	background-color: #FFF;
+	border-color: #DDD;
+	border-width: 1px;
+	border-radius: 4px;
+	box-shadow: none;
+}
+
+
+/*
+* Notification Input Field Themes
+* Starting with red, yellow, white
+*/
+
+.i-theme-red{
+	color:#333;
+	background-color: rgba(255, 64, 64, 0.74);
+	border-color: rgba(50, 48, 48, 0.34);
+	border-width:1px;
+	border-radius:4px 4px 4px 4px;
+}
+
+/*
+* Yellow
+*/
+.i-theme-yellow{
+	color:#333;
+	background-color: rgba(255, 250, 150, 0.77);
+	border-color: rgba(224, 239, 151, 1);
+	border-width:1px;
+	border-radius:4px 4px 4px 4px;
+}
+
+/*
+* Green
+*/
+.i-theme-green{
+	color:#333;
+	background-color: rgba(107, 255, 104, 0.36);
+	border-color: rgba(95, 252, 102, 0.28);
+	border-width:1px;
+	border-radius:4px 4px 4px 4px;
+}
+
+/*
+* White
+*/
+.i-theme-white{
+	color:#333;
+	background-color: #FFF;
+	border-color: #DDD;
+	border-width: 1px;
+	box-shadow: none;
+	border-radius:4px 4px 4px 4px;
+}
